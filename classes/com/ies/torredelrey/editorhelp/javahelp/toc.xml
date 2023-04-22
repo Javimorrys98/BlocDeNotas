@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<toc version="1.0">
+   <tocitem text="Editor de texto" target="ayuda1"/>
+   <tocitem text="Menú superior">
+        <tocitem text="Menú archivo"    target="ayuda2"/>
+        <tocitem text="Menú editar"    target="ayuda3"/>
+   </tocitem>
+</toc>

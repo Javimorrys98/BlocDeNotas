@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <java classname="com.sun.java.help.search.Indexer" failonerror="true">
+    <arg value="-db"/>
+    <arg value="target/generated-sources/jhelp/JavaHelpSearch"/>
+    <arg value="src/main/resources/com/ies/torredelrey/ejemplojavahelp/javahelp/JavaHelpSearch"/>
+  </java>
+</target>
+</project>
